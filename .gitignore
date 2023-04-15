@@ -4,3 +4,6 @@
 # Target directory
 /target/
 
+*.scad
+*.stl
+OpenSCAD/ModuleCache/AllStrings/AllStrings.txt
