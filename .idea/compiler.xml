@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="JavaMavenProjectTemplate" />
         <module name="JavaCSGTemplate" />
+        <module name="JavaCSG-intro[crstrskp-fork]" />
       </profile>
     </annotationProcessing>
   </component>
